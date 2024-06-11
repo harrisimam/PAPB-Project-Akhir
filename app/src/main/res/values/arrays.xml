@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fat_options">
+        <item>Select Fat</item>
+        <item>Any</item>
+        <item>≤ 20</item>
+        <item>20-50</item>
+        <item>> 50</item>
+    </string-array>
+    <string-array name="protein_options">
+        <item>Select Protein</item>
+        <item>Any</item>
+        <item>≤ 10</item>
+        <item>10-20</item>
+        <item>> 20</item>
+    </string-array>
+    <string-array name="sugars_options">
+        <item>Select Sugars</item>
+        <item>Any</item>
+        <item>≤ 20</item>
+        <item>20-50</item>
+        <item>> 50</item>
+    </string-array>
+</resources>
